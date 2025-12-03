@@ -164,4 +164,5 @@ eval "$(mise activate bash)"
 # Delano Jasper's Custom Additions
 # Lets get the Family back a la Playa
 # Remain positive and move forward
+# Maintain Frequency
 set -o vi

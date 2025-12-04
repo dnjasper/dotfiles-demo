@@ -161,10 +161,12 @@ if [[ "$TERM" == "xterm" ]]; then
 fi
 eval "$(mise activate bash)"
 
+
 # Delano Jasper's Custom Additions
 # Lets get the Family back a la Playa
-# Remain positive and move forward
-# Maintain Frequency
+# Engineers have long summers
+# You are finally a DevOps Engineer
+
 
 
 set -o vi
